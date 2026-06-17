@@ -52,6 +52,7 @@ extra_css:
 
 nav:
   - Home: index.md
+  - About EDAN: about.md
   - 'Chapters':
     - '0. Introduction': chapters/00-introduction/index.md
     - '1. Understanding Epilepsy': chapters/01-understanding-epilepsy/index.md

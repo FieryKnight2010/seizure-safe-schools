@@ -10,6 +10,11 @@ Plain-language definitions of terms used in this book.
 : A publicly funded school that operates independently of a traditional district. Covered by
   Minn. Stat. 121A.24, the same as public districts.
 
+**EDAN (Epilepsy Data & Advocacy Network)**
+: The student-led initiative behind this textbook. It uses public data to map gaps in seizure
+  safety in Minnesota schools, then delivers free resources to close them. See
+  [About EDAN](about.md).
+
 **Cohen's kappa**
 : A statistic that measures how much two independent raters agree, corrected for chance.
   Values above 0.81 are considered "almost perfect" agreement.

@@ -3,6 +3,9 @@
 *An intelligent textbook from the Epilepsy Data & Advocacy Network (EDAN), a student-led
 initiative. Plain language, interactive, and free.*
 
+> **New here?** [Read about EDAN](about.md), the student-led initiative behind this book, and
+> the data project that started it.
+
 ---
 
 About 1 in 100 people has epilepsy, and most seizures that happen at school are handled by
