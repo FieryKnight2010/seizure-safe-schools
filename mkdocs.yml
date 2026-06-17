@@ -1,0 +1,65 @@
+site_name: Seizure-Safe Schools - An Intelligent Textbook
+site_description: A plain-language, interactive guide to epilepsy, seizure first aid, and Minnesota's seizure-safety law, with the data behind the gaps in Minnesota schools.
+site_author: Rishik Kondadadi, Epilepsy Data & Advocacy Network (EDAN)
+# Set these two when you create the GitHub repo:
+site_url: https://fieryknight2010.github.io/seizure-safe-schools/
+repo_url: https://github.com/fieryknight2010/seizure-safe-schools
+repo_name: seizure-safe-schools
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+    - toc.follow
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+
+extra_css:
+  - css/extra.css
+
+nav:
+  - Home: index.md
+  - 'Chapters':
+    - '0. Introduction': chapters/00-introduction/index.md
+    - '1. Understanding Epilepsy': chapters/01-understanding-epilepsy/index.md
+    - '2. Seizure First Aid': chapters/02-seizure-first-aid/index.md
+    - '3. The Minnesota Law (121A.24)': chapters/03-minnesota-law/index.md
+    - '4. Seizure Action Plans': chapters/04-seizure-action-plans/index.md
+    - '5. The Data: Mapping the Gaps': chapters/05-the-data-case-study/index.md
+    - '6. How to Help': chapters/06-how-to-help/index.md
+  - 'Interactive Sims':
+    - 'Seizure First Aid Simulator': sims/seizure-first-aid/index.md
+  - Glossary: glossary.md
