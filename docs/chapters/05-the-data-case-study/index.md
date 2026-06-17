@@ -58,11 +58,6 @@ first ratings. They agreed **90% of the time** (Cohen's kappa = 0.82, "almost pe
 they disagreed, the second reviewer usually found *more* seizure content, which means our 70%
 figure may slightly **overstate** the gap, an error in the safe direction.
 
-## Why a student could do this
-This entire study uses public data and public websites. No special access, no funding, and no
-age requirement, just a clear question, a careful method, and a check on reliability. That is
-the model behind EDAN: use open data to find where help is needed, then deliver it.
-
 ---
 *Full methods and numbers are in the project's FINDINGS.md and RELIABILITY.md. Data sources:
 NCES/Urban Institute district roster, CDC PLACES county health data, MDH school-nurse report.*

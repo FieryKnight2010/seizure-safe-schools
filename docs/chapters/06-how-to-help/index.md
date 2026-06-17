@@ -49,4 +49,4 @@ We do not duplicate existing trainings. We point them where they are needed most
 
 ---
 **Contact:** Rishik Kondadadi, Epilepsy Data & Advocacy Network (EDAN). Corrections and
-collaboration welcome.
+collaboration welcome. Connect on LinkedIn: <https://www.linkedin.com/in/krishikk/>
