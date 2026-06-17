@@ -1,8 +1,7 @@
-# Explore the Data
+# Find Your District
 
-Look up your own Minnesota school district below, and see, county by county, where seizure
-plans are and are not posted. This is the same dataset described in
-[The Data: Mapping the Gaps](../chapters/05-the-data-case-study/index.md).
+Look up your Minnesota school district to see whether a seizure plan is posted, key district
+facts, and exactly what to do next, whether you are a parent or you work for the district.
 
 !!! warning "Please read first"
     This shows whether a seizure plan is **posted publicly online** for each district, as of
@@ -10,19 +9,12 @@ plans are and are not posted. This is the same dataset described in
     plans internal or on pages we could not reach. It is not a measure of legal compliance or
     of how safe a school is. Always contact your school directly.
 
-## Find your district
+## Search your district
 Start typing your district or county name, pick it from the list, and you will get a full
-profile: whether a seizure plan is posted, district facts, county context, and what to do next.
+profile: the seizure-plan status, district facts, county context, the source we checked, and
+your next steps.
 
 <iframe src="district_lookup.html" width="100%" height="560" style="border:1px solid #e0e0e0;border-radius:8px" title="Minnesota district lookup" loading="lazy"></iframe>
-
-### See the whole state, and browse every district
-Darker counties have more districts with no posted plan, hover any county for details. Below the
-map is a searchable table of all districts with the source we checked. (For the charts behind
-the gap, by district type, size, and county health need, see
-[The Data: Mapping the Gaps](../chapters/05-the-data-case-study/index.md).)
-
-<iframe src="finder.html" width="100%" height="900" style="border:1px solid #e0e0e0;border-radius:8px" title="Minnesota seizure-plan map and table" loading="lazy"></iframe>
 
 ## What to do next
 
@@ -39,10 +31,12 @@ the gap, by district type, size, and county health need, see
        action plan template and update your policy in about 30 minutes.
     3. Tell us once you have adopted a plan so we can update your entry.
 
-## See the analysis
-For the charts behind the gap (by district type, by size, by county health need) and how we
-checked the data for reliability, see
-[The Data: Mapping the Gaps](../chapters/05-the-data-case-study/index.md).
+## Browse every district
+A searchable list of all Minnesota districts with the source we checked.
 
-*Found an error or out-of-date entry? Corrections are welcome, reach out via
-[LinkedIn](https://www.linkedin.com/in/krishikk/).*
+<iframe src="district_table.html" width="100%" height="640" style="border:1px solid #e0e0e0;border-radius:8px" title="All Minnesota districts" loading="lazy"></iframe>
+
+---
+*Want the map and the analysis behind the gap (by district type, size, and county health need)?
+See [The Data: Mapping the Gaps](../chapters/05-the-data-case-study/index.md). Found an error or
+out-of-date entry? Reach out via [LinkedIn](https://www.linkedin.com/in/krishikk/).*

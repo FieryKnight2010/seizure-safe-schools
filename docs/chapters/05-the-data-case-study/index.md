@@ -5,7 +5,7 @@ answer: **how many Minnesota school districts post a seizure plan that families 
 actually find?** The charts below are interactive, hover, zoom, and explore.
 
 !!! tip "Want to check your own district?"
-    Jump to [Explore the Data](../../explore/index.md) and search your district by name.
+    Jump to [Find Your District](../../find-your-district/index.md) and search your district by name.
 
 ## How we measured it
 For **328 of Minnesota's ~329 regular public school districts**, we reviewed the official
@@ -70,7 +70,7 @@ ready-to-use packet.
 === "If you are a parent"
     Your district showing "no plan posted" does not mean your child cannot get one, it means
     you may need to ask. The law (Minn. Stat. 121A.24) is on your side. Look up your district
-    in [Explore the Data](../../explore/index.md), then use the
+    in [Find Your District](../../find-your-district/index.md), then use the
     [family guide and copy-paste email](../06-how-to-help/index.md) to request a plan.
 
 === "If you are a school or district"
@@ -88,4 +88,4 @@ figure may slightly **overstate** the gap, an error in the safe direction.
 ---
 *Data sources: NCES/Urban Institute district roster, CDC PLACES county health data, MDH
 school-nurse report. Full methods and reliability details are summarized on the
-[Explore the Data](../../explore/index.md) page.*
+[Find Your District](../../find-your-district/index.md) page.*

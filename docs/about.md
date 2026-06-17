@@ -23,7 +23,7 @@ asks every public and charter school to have a seizure action plan and trained s
 that about **70% of Minnesota school districts** do not post a seizure plan that families and
 staff can actually find, with the gap largest in the smallest, least-resourced districts. See
 [The Data: Mapping the Gaps](chapters/05-the-data-case-study/index.md), look up your district
-in [Explore the Data](explore/index.md), and find free resources in
+in [Find Your District](find-your-district/index.md), and find free resources in
 [How to Help](chapters/06-how-to-help/index.md). This interactive textbook is part of that
 project.
 

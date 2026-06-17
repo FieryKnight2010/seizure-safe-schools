@@ -20,7 +20,7 @@ emergencies, always call 911.
 ??? question "My district shows 'no plan posted' in your finder. Should I worry?"
     Not necessarily. We measured whether a plan is posted publicly online; some districts keep
     plans internal. It does mean it is worth asking. Use the finder in
-    [Explore the Data](explore/index.md), then contact your school.
+    [Find Your District](find-your-district/index.md), then contact your school.
 
 ??? question "Are the action plan forms available in other languages?"
     Yes. Official templates exist in English, Spanish, Hmong, and Somali. Links are in
