@@ -1,35 +1,43 @@
 # About EDAN
 
 **EDAN (the Epilepsy Data & Advocacy Network)** is a student-led initiative that uses public
-data to find, and help close, gaps in seizure safety in Minnesota schools.
+data to advance epilepsy awareness, advocacy, and safety. We turn open data and dense clinical,
+legal, and research material into clear information, tools, and resources for the patients,
+families, and communities affected by epilepsy.
 
-## The problem we work on
-Minnesota law (Minn. Stat. 121A.24) asks every public and charter school to have a seizure
-action plan and trained staff. But a law on paper is not a plan in every building. We found
+## Our approach
+We follow one repeatable model that can be pointed at many different epilepsy challenges:
+
+1. **Map** — use open, public data to find where needs and gaps actually are.
+2. **Translate** — turn complex clinical, legal, and statistical material into plain language
+   anyone can use.
+3. **Deliver** — put free, ready-to-use resources where they help most, and partner with the
+   organizations already equipped to act at scale.
+
+We do not duplicate the excellent work of existing epilepsy organizations. We use data to point
+that work, and our own resources, where they are needed most.
+
+## Our first project: Seizure-Safe Schools (Minnesota)
+Our flagship project applies this model to school safety. Minnesota law (Minn. Stat. 121A.24)
+asks every public and charter school to have a seizure action plan and trained staff. We found
 that about **70% of Minnesota school districts** do not post a seizure plan that families and
-staff can actually find, and the gap is largest in the smallest, least-resourced districts.
-The full story is in [The Data: Mapping the Gaps](chapters/05-the-data-case-study/index.md).
+staff can actually find, with the gap largest in the smallest, least-resourced districts. See
+[The Data: Mapping the Gaps](chapters/05-the-data-case-study/index.md), look up your district
+in [Explore the Data](explore/index.md), and find free resources in
+[How to Help](chapters/06-how-to-help/index.md). This interactive textbook is part of that
+project.
 
-## How EDAN works
-We run a simple three-step model:
+## Where we are headed
+The same data-driven approach extends well beyond schools. Directions we are exploring include:
 
-1. **Map** — use open data (school directories, district websites, public health data) to find
-   where seizure plans are missing.
-2. **Translate** — turn dense clinical and legal material into plain language anyone can use.
-   This textbook is part of that step.
-3. **Deliver** — give free, ready-to-use resources to the highest-need districts, and hand the
-   map to partners like the Epilepsy Foundation of Minnesota who can act at scale.
+- **Translating research** — turning new epilepsy and neurology studies into plain-language
+  summaries for patients and families.
+- **Mapping access to care** — using public health data to find where access to neurologists,
+  school nurses, and treatment is thinnest.
+- **Awareness and stigma** — data-informed materials that counter myths about seizures.
+- **Expanding the audit** — extending the schools analysis to other states with similar laws.
 
-We do not duplicate existing trainings or resources. We point them where they are needed most.
-
-## What we have built
-- A near-complete **census of 328 Minnesota districts** on whether they post a seizure plan,
-  checked for reliability (independent re-rating agreed 90% of the time).
-- A free **district adoption packet** (seizure action plan template, drop-in policy language,
-  printable first-aid poster) so a small district can get compliant in about 30 minutes.
-- A plain-language **family guide** for parents of children with epilepsy.
-- A public **district finder** so any family can look up their own school.
-- This **interactive textbook**.
+These are directions, not finished work. If one of them matters to you, we would love to hear it.
 
 ## Who we are
 EDAN was founded by **Rishik Kondadadi**, a Minnesota high school student. It is run by students
@@ -37,13 +45,13 @@ and is non-commercial. Everything we produce is free to use and adapt.
 
 ## Get involved or get in touch
 - Families and schools: see [How to Help](chapters/06-how-to-help/index.md).
-- Corrections, partnerships, or to tell us your district has adopted a plan: reach out via the
-  contact below.
+- Ideas, corrections, partnerships, or to tell us your district adopted a plan: reach out below.
 
 **Contact:** Rishik Kondadadi, Epilepsy Data & Advocacy Network (EDAN).
 Connect on LinkedIn: <https://www.linkedin.com/in/krishikk/>
 
 !!! note "Disclaimer"
-    EDAN's materials are informational and are not legal or medical advice. We measure whether
-    seizure plans are publicly findable, which is not the same as legal compliance. A child's
-    seizure care must be set by their licensed healthcare provider. In an emergency, call 911.
+    EDAN's materials are informational and are not legal or medical advice. Where we report on
+    seizure plans, we measure whether they are publicly findable, which is not the same as legal
+    compliance. A person's epilepsy care must be set by their licensed healthcare provider. In an
+    emergency, call 911.
