@@ -48,7 +48,7 @@ and is non-commercial. Everything we produce is free to use and adapt.
 - Ideas, corrections, partnerships, or to tell us your district adopted a plan: reach out below.
 
 **Contact:** Rishik Kondadadi, Epilepsy Data & Advocacy Network (EDAN).
-Connect on LinkedIn: <https://www.linkedin.com/in/krishikk/>
+Email: <edanmnorg@gmail.com> · LinkedIn: <https://www.linkedin.com/in/krishikk/>
 
 !!! note "Disclaimer"
     EDAN's materials are informational and are not legal or medical advice. Where we report on
