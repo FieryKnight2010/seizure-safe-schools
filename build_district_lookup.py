@@ -130,7 +130,7 @@ function render(d){{
   <div class="cta"><h4>If you work for this district</h4>
    ${{d.cls==="FOUND_SEIZURE_SPECIFIC"
       ?"You already post a plan, thank you. A yearly review keeps it current."
-      :"Closing this gap can take about 30 minutes with the free <a href='../chapters/06-how-to-help/index.md' target='_top'>drop-in packet</a> (plan template + policy language + poster)."}}</div>
+      :"Closing this gap is easy with the free <a href='../chapters/06-how-to-help/index.md' target='_top'>drop-in packet</a> (plan template + policy language + poster)."}}</div>
   <div class="disc">Reflects what was <b>publicly findable online as of ${{CHECK}}</b>, not legal
    compliance or school safety. County health figures are community context (CDC PLACES, adults),
    not seizure rates. Wrong or out of date? Tell us via

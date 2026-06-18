@@ -28,7 +28,7 @@ your next steps.
     1. Check your entry above. If it says "medication policy only" or "nothing found," a plan
        may simply not be posted yet.
     2. Use the free [drop-in packet](../chapters/06-how-to-help/index.md) to post a seizure
-       action plan template and update your policy in about 30 minutes.
+       action plan template and update your policy with ready-to-use materials.
     3. Tell us once you have adopted a plan so we can update your entry.
 
 ## Browse every district

@@ -23,7 +23,7 @@ A copy-paste email and a full walkthrough are in EDAN's family guide.
 
 ## If you are a school nurse or administrator
 The data says the gap is about capacity, so the fix is to make adoption nearly effortless.
-EDAN provides a **free drop-in packet** that turns this into about 30 minutes of work:
+EDAN provides a **free drop-in packet** that removes the heavy lifting:
 
 - A Seizure Action Plan template (with official multilingual versions linked)
 - Drop-in Policy 516 language that cites Minn. Stat. 121A.24

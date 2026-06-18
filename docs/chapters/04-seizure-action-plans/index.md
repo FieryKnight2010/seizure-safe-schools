@@ -38,7 +38,7 @@ languages (English, Spanish, Hmong, Somali):
 One of the simplest, highest-impact things a district can do is **post a SAP template on its
 health-services web page** so families can find and complete it. Our data shows most Minnesota
 districts do not. EDAN's free [district packet](../06-how-to-help/index.md) includes a ready
-template and drop-in policy language to make this a 30-minute task.
+template and drop-in policy language to make this quick and ready to use.
 
 ---
 *Next: see [the data](../05-the-data-case-study/index.md) on how many districts actually post

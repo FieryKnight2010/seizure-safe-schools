@@ -74,7 +74,7 @@ ready-to-use packet.
     [family guide and copy-paste email](../06-how-to-help/index.md) to request a plan.
 
 === "If you are a school or district"
-    If your district is in the ~70%, closing the gap can take about 30 minutes. See the free
+    If your district is in the ~70%, closing the gap is straightforward with ready-to-use materials. See the free
     [drop-in packet](../06-how-to-help/index.md): a seizure action plan template, policy
     language that cites 121A.24, and a printable poster. The single biggest step is simply
     **posting a seizure action plan template on your health-services page**.
