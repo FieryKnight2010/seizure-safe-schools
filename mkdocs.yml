@@ -68,7 +68,10 @@ nav:
     - '4. Seizure Action Plans': chapters/04-seizure-action-plans/index.md
     - '5. The Data: Mapping the Gaps': chapters/05-the-data-case-study/index.md
     - '6. How to Help': chapters/06-how-to-help/index.md
+    - '7. Your Child''s Rights (504/IEP)': chapters/07-your-childs-rights/index.md
+    - '8. For Schools: In Practice': chapters/08-for-schools-in-practice/index.md
   - 'Interactive Sims':
     - 'Seizure First Aid Simulator': sims/seizure-first-aid/index.md
+  - Resources & Support: resources/index.md
   - FAQ: faq.md
   - Glossary: glossary.md

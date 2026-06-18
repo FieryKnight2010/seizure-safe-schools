@@ -31,6 +31,15 @@ student staring, wandering, or suddenly confused may also be having a seizure.
 - Confusion, mumbling, or repeated movements (lip-smacking, picking at clothes)
 - A brief period afterward of being tired, confused, or emotional (the "postictal" phase)
 
+!!! warning "The seizures most often missed"
+    Not every seizure is dramatic. **Absence seizures** can look like a few seconds of blank
+    staring, easily mistaken for daydreaming or "not paying attention." **Focal seizures** can
+    look like sudden confusion, not answering normally, repeated movements (lip-smacking, fumbling
+    with clothes), or briefly wandering. A student who suddenly "spaces out," seems confused, or
+    repeats odd movements may be having a seizure. When in doubt, treat it as one, stay with them,
+    keep them safe, time it, and tell the nurse. Repeated, unexplained staring spells are worth
+    mentioning to the family and nurse.
+
 ## What triggers seizures?
 Triggers vary by person, but common ones include missed medication, lack of sleep, illness or
 fever, stress, and, for some people, flashing lights. Knowing a student's triggers (recorded

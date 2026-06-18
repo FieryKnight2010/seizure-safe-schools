@@ -32,7 +32,10 @@ actually prepared.
 - New to epilepsy? Begin with [Understanding Epilepsy](chapters/01-understanding-epilepsy/index.md).
 - Need to know what to do in a seizure right now? Go to [Seizure First Aid](chapters/02-seizure-first-aid/index.md).
 - Want to check your own district? Use [Find Your District](find-your-district/index.md).
+- A parent wanting to know your child's rights? See [504 Plans, IEPs & Accommodations](chapters/07-your-childs-rights/index.md).
+- A school putting a plan into practice? See [For Schools: In Practice](chapters/08-for-schools-in-practice/index.md).
 - Want the research story and interactive charts? See [The Data: Mapping the Gaps](chapters/05-the-data-case-study/index.md).
+- Looking for support, helplines, or financial help? See [Resources & Support](resources/index.md).
 - Quick answers? See the [FAQ](faq.md).
 
 !!! warning "Important"
