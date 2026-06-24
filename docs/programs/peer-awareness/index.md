@@ -10,7 +10,7 @@ your peers seizure first aid and bust the myths, in about 20 minutes.
     kinder for students with epilepsy.
 
 ## Pick a format
-- **Class talk (15–20 min):** ask a teacher for a slot in health, advisory, or homeroom.
+- **Class talk (15 to 20 min):** ask a teacher for a slot in health, advisory, or homeroom.
 - **Club or advisory:** present at an existing club, or start a "Seizure Smart" club.
 - **Awareness day:** a lunchroom table, posters, and a short demo; purple is the epilepsy color.
 - **Morning announcement + posters:** the lowest-effort option.

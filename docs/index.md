@@ -32,6 +32,7 @@ safety, and recent research in plain language.
 - A **glossary** translates clinical terms into plain English.
 
 ## Start here
+- **A student with epilepsy yourself?** This page is for you: [For Students](for-students/index.md).
 - New to epilepsy? Begin with [Understanding Epilepsy](chapters/01-understanding-epilepsy/index.md).
 - Need to know what to do in a seizure right now? Go to [Seizure First Aid](chapters/02-seizure-first-aid/index.md).
 - Want to check your own district? Use [Find Your District](find-your-district/index.md).
