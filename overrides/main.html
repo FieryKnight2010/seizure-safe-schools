@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <!-- GoatCounter analytics: privacy-friendly, no cookies, instant-navigation aware -->
+  <script>window.goatcounter = { no_onload: true }</script>
+  <script data-goatcounter="https://edanmn.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+  <script>
+    // Count a pageview on first load and on each Material instant-navigation change.
+    if (typeof document$ !== "undefined") {
+      document$.subscribe(function () {
+        if (window.goatcounter && typeof window.goatcounter.count === "function") {
+          window.goatcounter.count({
+            path: location.pathname + location.search + location.hash
+          });
+        }
+      });
+    }
+  </script>
+{% endblock %}
